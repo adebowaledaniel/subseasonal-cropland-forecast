@@ -1,0 +1,17 @@
+# Non-spatial pixel-wise LSTM baseline, NIRv only.
+# hidden_dim 272 matches the ConvLSTM parameter count.
+model: pixel_lstm
+input_bands: [1]
+target_band: 1
+tlen: 6
+forecast_horizon: 5
+hidden_dim: 272
+num_layers: 2
+dropout: 0.2
+loss: mse
+lr: 1.0e-3
+weight_decay: 1.0e-5
+batch_size: 32
+epochs: 100
+patience: 15
+min_delta: 1.0e-4

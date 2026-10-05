@@ -1,0 +1,14 @@
+# NIRv history 6, RZSM history 10 (dual encoder)
+decoupled_history: [6, 10]
+model: convlstm
+target_band: 1
+forecast_horizon: 5
+hidden_dims: [64, 64]
+kernel_sizes: [3, 3]
+dropout: 0.18
+loss: huber
+lr: 1.0e-3
+weight_decay: 1.0e-5
+batch_size: 32
+epochs: 100
+patience: 25

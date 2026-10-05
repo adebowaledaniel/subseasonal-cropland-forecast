@@ -1,0 +1,111 @@
+ADMIN,Name,country,region,crop,planting,vegetative,harvest,endofseaso,outofseaso,piece_area
+Sudan,SDN_G_1,Sudan,Northern Darfur,Sorghum 1,"152","213","305","1","32",40076319918.067
+Sudan,SDN_G_2,Sudan,Northern Darfur,Sorghum 1,"152","213","305","1","32",57239587823.857
+Sudan,SDN_G_3,Sudan,North,Sorghum 1,"152","213","305","1","32",83105736415.757
+Sudan,SDN_G_4,Sudan,North,Sorghum 1,"152","213","305","1","32",83105736415.757
+Sudan,SDN_G_5,Sudan,North,Millet 1,"152","213","305","1","32",82322056172.776
+Sudan,SDN_G_6,Sudan,North,Sorghum 1,"152","213","305","1","32",12649631213.477
+Sudan,SDN_G_7,Sudan,Northern Darfur,Sorghum 1,"152","213","305","1","32",48535342616.126
+Sudan,SDN_G_8,Sudan,Northern Darfur,Millet 1,"152","213","305","1","32",48230481119.376
+Sudan,SDN_G_9,Sudan,Northern Darfur,Sorghum 1,"152","213","305","1","32",49581966954.583
+Sudan,SDN_G_10,Sudan,Northern Darfur,Millet 1,"152","213","305","1","32",52033864227.355
+Sudan,SDN_G_11,Sudan,Northern Kordofan,Sorghum 1,"152","213","305","1","32",54311185291.573
+Sudan,SDN_G_12,Sudan,North,Sorghum 1,"152","213","305","1","32",61026746433.681
+Sudan,SDN_G_13,Sudan,Northern Kordofan,Sorghum 1,"152","213","305","1","32",83075351275.863
+Sudan,SDN_G_14,Sudan,East,Millet 1,"152","213","305","1","32",72835855895.212
+Sudan,SDN_G_15,Sudan,East,Millet 1,"152","213","305","1","32",46517151551.154
+Eritrea,ERI_G_16,Eritrea,Semenawi Keih Bahri,Sorghum 1,"182","244","320","1","32",24996909462.681
+Sudan,SDN_G_17,Sudan,East,Millet 1,"152","213","305","1","32",55307181022.222
+Ethiopia,ETH_G_18,Ethiopia,Tigray,Teff 1,"136","197","259","1","32",38615739929.336
+Sudan,SDN_G_19,Sudan,Southwest Darfur,Millet 1,"152","213","305","1","32",74859022186.178
+Sudan,SDN_G_20,Sudan,Southwest Darfur,Millet 1,"152","213","305","1","32",39086250480.393
+Sudan,SDN_G_21,Sudan,Southwest Darfur,Millet 1,"152","213","305","1","32",24479808793.503
+South Sudan,SDS_G_22,South Sudan,Bahr El Ghazal,Millet 1,"106","182","274","1","32",58767991566.301
+Sudan,SDN_G_23,Sudan,Southern Kordofan,Sorghum 1,"152","213","305","1","32",72464465654.579
+Sudan,SDN_G_24,Sudan,East,Millet 1,"152","213","305","1","32",42834988481.544
+South Sudan,SDS_G_25,South Sudan,Nile Sobat,Maize 1,"106","182","274","1","32",49754774685.827
+South Sudan,SDS_G_26,South Sudan,Nile Sobat,Maize 1,"106","182","274","1","32",67897957782.065
+Ethiopia,ETH_G_27,Ethiopia,West Amhara,Teff 1,"136","197","259","1","32",37666915744.893
+Ethiopia,ETH_G_28,Ethiopia,East Amhara,Teff 1,"136","197","259","1","32",37740635526.537
+Ethiopia,ETH_G_29,Ethiopia,West Oromia,Teff 1,"136","197","259","1","32",60224659030.420
+Ethiopia,ETH_G_30,Ethiopia,West Oromia,Teff 1,"136","197","259","1","32",34009196583.817
+Ethiopia,ETH_G_32,Ethiopia,East Oromia,Teff 1,"136","197","259","1","32",38528003490.486
+South Sudan,SDS_G_33,South Sudan,Nile Sobat,Maize 1,"106","182","274","1","32",60809265898.388
+South Sudan,SDS_G_34,South Sudan,Nile Sobat,Maize 1,"106","182","274","1","32",72288594387.356
+South Sudan,SDS_G_36,South Sudan,Central Equatoria,Maize 1,"91","121","197","213","244",51581556599.205
+Ethiopia,ETH_G_37,Ethiopia,Former SNNPR,Teff 1,"136","197","244","1","32",47859198237.492
+Ethiopia,ETH_G_38,Ethiopia,East Oromia,Teff 1,"136","197","259","1","32",45279801401.737
+Kenya,KEN_G_39,Ethiopia,Former SNNPR,Teff 1,"136","197","244","1","32",24438611722.565
+Ethiopia,ETH_G_40,Ethiopia,South Oromia,Teff 1,"136","197","259","1","32",55616795262.592
+Ethiopia,ETH_G_41,Ethiopia,East Oromia,Teff 1,"136","197","259","1","32",35510577114.762
+Democratic Republic of the Congo,COD_G_42,Democratic Republic of the Congo,North,Maize 1,"152","213","274","305","335",69069802943.017
+Uganda,UGA_G_43,Uganda,Northern,Maize 1,"91","152","213","244","274",43188887191.726
+Uganda,UGA_G_44,Uganda,Western,Millet 1,"32","91","152","213","244",36907556194.132
+Uganda,UGA_G_45,Uganda,Central,Maize 1,"32","91","152","182","213",52270784511.366
+Kenya,KEN_G_46,Kenya,Rift Valley,Maize 1,"91","182","274","1","32",56709534691.944
+Kenya,KEN_G_47,Kenya,Eastern,Maize 1,"60","152","182","213","244",47631809450.157
+Kenya,KEN_G_48,Kenya,Rift Valley,Maize 1,"91","182","274","1","32",54790029225.234
+Kenya,KEN_G_49,Kenya,Eastern,Maize 1,"60","152","182","213","244",36248605221.570
+Rwanda,RWA_G_50,Democratic Republic of the Congo,East,Maize 1,"259","305","15","47","75",22043743214.390
+United Republic of Tanzania,TZA_G_51,United Republic of Tanzania,Northern,Millet 1,"47","91","182","213","244",80927690363.486
+United Republic of Tanzania,TZA_G_52,United Republic of Tanzania,Southwest,Rice 1,"335","32","121","152","182",38411274545.810
+United Republic of Tanzania,TZA_G_53,United Republic of Tanzania,Central,Sorghum 1,"305","1","121","152","182",51065190367.350
+United Republic of Tanzania,TZA_G_54,Kenya,Rift Valley,Sorghum 1,"32","121","213","244","274",32508265811.212
+Kenya,KEN_G_55,Kenya,Coast,Maize 1,"60","152","182","213","244",39339469613.322
+United Republic of Tanzania,TZA_G_56,United Republic of Tanzania,Central,Maize 1,"305","1","121","152","182",64303524920.616
+United Republic of Tanzania,TZA_G_57,Kenya,Coast,Maize 1,"60","152","182","213","244",26827539462.967
+United Republic of Tanzania,TZA_G_58,Democratic Republic of the Congo,Katanga,Sorghum 1,"305","32","121","152","182",41493129596.972
+United Republic of Tanzania,TZA_G_59,United Republic of Tanzania,Central,Maize 1,"305","1","121","152","182",42029492361.636
+Zambia,ZMB_G_60,Zambia,Northern,Maize 1,"289","350","47","121","152",40207169868.051
+United Republic of Tanzania,TZA_G_61,United Republic of Tanzania,Southwest,Maize 1,"305","1","121","152","182",56673280307.810
+United Republic of Tanzania,TZA_G_62,United Republic of Tanzania,Central,Sorghum 1,"305","1","121","152","182",63309568251.899
+United Republic of Tanzania,TZA_G_63,United Republic of Tanzania,Northern Coast,Maize 1,"47","91","182","213","244",31404481128.627
+United Republic of Tanzania,TZA_G_64,United Republic of Tanzania,Southwest,Maize 1,"305","1","121","152","182",71579386997.356
+United Republic of Tanzania,TZA_G_65,United Republic of Tanzania,Southeast,Maize 1,"305","1","121","152","182",46249592147.664
+Democratic Republic of the Congo,COD_G_66,Democratic Republic of the Congo,Katanga,Sorghum 1,"305","32","121","152","182",70491440549.822
+Zambia,ZMB_G_67,Zambia,North-Western,Maize 1,"289","350","47","121","152",49449965209.374
+Zambia,ZMB_G_68,Zambia,North-Western,Maize 1,"289","350","47","121","152",39527724248.915
+Zambia,ZMB_G_69,Zambia,Northern,Maize 1,"289","350","47","121","152",42862897495.541
+Zambia,ZMB_G_70,Zambia,Northern,Maize 1,"289","350","47","121","152",32888716924.645
+Zambia,ZMB_G_71,Zambia,Central,Maize 1,"305","1","60","121","152",44801613604.415
+Zambia,ZMB_G_72,Zambia,Eastern,Maize 1,"320","15","75","136","167",31515556327.133
+United Republic of Tanzania,TZA_G_73,United Republic of Tanzania,Southeast,Maize 1,"305","1","121","152","182",48576622050.096
+Mozambique,MOZ_G_74,United Republic of Tanzania,Southeast,Maize 1,"305","1","121","152","182",39294989843.004
+Mozambique,MOZ_G_75,Mozambique,Niassa,Sorghum 1,"305","1","75","121","152",63474388427.676
+Mozambique,MOZ_G_76,Mozambique,Cabo Delgado,Maize 1,"305","1","75","121","152",41211763227.167
+Zambia,ZMB_G_77,Zambia,Western,Maize 1,"305","1","60","106","136",79002729338.068
+Zambia,ZMB_G_78,Zambia,Southern,Maize 1,"305","1","60","106","136",53577718020.419
+Botswana,BWA_G_79,Botswana,Northern,Millet 1,"320","15","75","167","197",44237988663.824
+Zimbabwe,ZWE_G_80,Zimbabwe,Matabeleland North,Maize 1,"320","350","60","152","182",50128645474.208
+Zimbabwe,ZWE_G_81,Zimbabwe,Mashonaland West,Maize 1,"305","350","91","136","167",24659144332.320
+Mozambique,MOZ_G_82,Mozambique,Tete,Maize 1,"305","1","75","121","152",66203841968.133
+Zimbabwe,ZWE_G_83,Zimbabwe,Mashonaland West,Maize 1,"305","350","91","136","167",30485702061.440
+Zimbabwe,ZWE_G_84,Mozambique,Manica,Sorghum 1,"305","1","75","121","152",30753865005.652
+Mozambique,MOZ_G_85,Mozambique,Central,Maize 1,"305","1","75","121","152",41758449733.091
+Mozambique,MOZ_G_86,Mozambique,Central,Sorghum 1,"305","1","75","121","152",73927045462.106
+Mozambique,MOZ_G_87,Mozambique,Sofala,Maize 1,"305","1","75","121","152",33005481232.937
+Botswana,BWA_G_88,Botswana,Northern,Maize 1,"320","15","75","152","182",39247513456.784
+Botswana,BWA_G_89,Botswana,Eastern,Maize 1,"320","15","75","152","182",54092568024.164
+Botswana,BWA_G_91,Botswana,Eastern,Sorghum 1,"320","15","75","152","182",64724154282.481
+Zimbabwe,ZWE_G_92,Zimbabwe,Matabeleland South,Sorghum 1,"320","1","75","106","136",30375454566.173
+Mozambique,MOZ_G_93,Mozambique,Manica,Sorghum 1,"305","1","75","121","152",25462005432.554
+South Africa,ZAF_G_94,South Africa,Limpopo,Maize 1,"305","335","60","106","152",64766493174.737
+Mozambique,MOZ_G_95,Mozambique,South,Maize 1,"305","1","75","121","152",77488843715.309
+Botswana,BWA_G_96,South Africa,North West,Maize 1,"305","335","60","121","152",30487563521.029
+South Africa,ZAF_G_97,South Africa,North West,Maize 1,"305","335","60","121","152",45200642230.421
+South Africa,ZAF_G_98,South Africa,Northern Cape,Maize 1,"305","335","60","106","152",56468842782.501
+South Africa,ZAF_G_99,South Africa,Free State,Maize 1,"305","335","60","121","152",66436477694.618
+South Africa,ZAF_G_100,South Africa,Mpumalanga,Maize 1,"274","335","60","106","152",49293449625.610
+Mozambique,MOZ_G_101,Mozambique,South,Rice 1,"305","1","91","152","182",38201520575.170
+South Africa,ZAF_G_102,South Africa,KwaZulu-Natal,Maize 1,"274","335","60","106","152",42621476921.372
+South Africa,ZAF_G_103,South Africa,KwaZulu-Natal,Maize 1,"274","335","60","106","152",23866411554.593
+South Africa,ZAF_G_104,South Africa,Northern Cape,Maize 1,"305","335","60","106","152",41372466665.299
+South Africa,ZAF_G_105,South Africa,Northern Cape,Maize 1,"305","335","60","106","152",82233437684.864
+South Africa,ZAF_G_106,South Africa,Western Cape,Winter Wheat,"106","182","274","350","1",29809688806.653
+South Africa,ZAF_G_107,South Africa,Western Cape,Winter Wheat,"106","182","274","350","1",60897477043.206
+South Africa,ZAF_G_108,South Africa,Northern Cape,Maize 1,"305","335","60","106","152",63908941054.581
+South Africa,ZAF_G_109,South Africa,Eastern Cape,Maize 1,"305","335","60","106","152",43117823794.535
+South Africa,ZAF_G_110,South Africa,Eastern Cape,Maize 1,"305","335","60","106","152",45150649190.329
+South Africa,ZAF_G_111,South Africa,Eastern Cape,Maize 1,"305","335","60","106","152",47716347265.225
+South Africa,ZAF_G_112,South Africa,KwaZulu-Natal,Maize 1,"274","335","60","106","152",26802919359.958
+South Africa,ZAF_G_113,South Africa,Eastern Cape,Maize 1,"305","335","60","106","152",3263017308.813
